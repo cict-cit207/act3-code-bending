@@ -1,7 +1,8 @@
-emoji :v: y'all!
+### Hello! My Name is Cherilyn Marie Deocampo. 😼👾
 ***
-about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
 
-hugot_lines/other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be - Harold Winston (Overwatch)".
+#### About Me
+Currently a student of West Visayas State University, taking up **BS in Computer Science** from the section A. 🤍✨
+
+#### Hugot Lines
+Imaginin mo. Yung crush mo, crush ka din. Yung mahal mo, mahal ka din. Anong ending? **IMAGINATION** lang din. 😭🤡
