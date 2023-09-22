@@ -1,7 +1,7 @@
 emoji :v: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Els, on a mission to become a kinder person.
 
 hugot_lines/other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be - Harold Winston (Overwatch)".
+> "Saw a car crash, it remind me of our first date" -Rich Brian
